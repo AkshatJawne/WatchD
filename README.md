@@ -1,5 +1,5 @@
 
-## Watchd
+## WatchD
 
 A HBO Max clone, infused with elements of Amazon Prime Video; made with Next JS and React JS, styled with Tailwind CSS. 
 
